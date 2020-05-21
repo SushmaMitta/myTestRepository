@@ -1,4 +1,4 @@
-# Test Reposiory
+# Test Repository
 This is a repository to test all the git commands I learn over time.
 
 ## What to expect from this repository?
