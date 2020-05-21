@@ -5,3 +5,8 @@
 5. git add <file> ## adds change to staging area
 6. git commit -m <message> ## saves snapshot of project's current status
 7. git push ## sends commited changes to remote repository
+8. git branch --list ## lists all branches
+9. git branch <branch_name> ## creates a new branch with specified name but doesn't checkout
+    git checkout -b <branch_name> ## creates a new branch and checks out to that branch
+10.git checkout <branch_name> ## switches to the named branch from current branch
+11.
