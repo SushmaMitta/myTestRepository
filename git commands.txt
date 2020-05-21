@@ -10,4 +10,7 @@
     git checkout -b <branch_name> ## creates a new branch and checks out to that branch
 10.git checkout <branch_name> ## switches to the named branch from current branch
 11.git merge <branch_name> ## combines changes from named branch into current branch
-12.
+12.git diff <branch_name> ## shows difference between branches
+13.git stash apply ## applies stashed changes
+
+
